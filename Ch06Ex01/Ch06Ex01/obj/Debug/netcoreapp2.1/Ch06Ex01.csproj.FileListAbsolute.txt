@@ -1,0 +1,11 @@
+C:\Martin\Ch06Ex01\Ch06Ex01\bin\Debug\netcoreapp2.1\Ch06Ex01.deps.json
+C:\Martin\Ch06Ex01\Ch06Ex01\bin\Debug\netcoreapp2.1\Ch06Ex01.runtimeconfig.json
+C:\Martin\Ch06Ex01\Ch06Ex01\bin\Debug\netcoreapp2.1\Ch06Ex01.runtimeconfig.dev.json
+C:\Martin\Ch06Ex01\Ch06Ex01\bin\Debug\netcoreapp2.1\Ch06Ex01.dll
+C:\Martin\Ch06Ex01\Ch06Ex01\bin\Debug\netcoreapp2.1\Ch06Ex01.pdb
+C:\Martin\Ch06Ex01\Ch06Ex01\obj\Debug\netcoreapp2.1\Ch06Ex01.csprojAssemblyReference.cache
+C:\Martin\Ch06Ex01\Ch06Ex01\obj\Debug\netcoreapp2.1\Ch06Ex01.csproj.CoreCompileInputs.cache
+C:\Martin\Ch06Ex01\Ch06Ex01\obj\Debug\netcoreapp2.1\Ch06Ex01.AssemblyInfoInputs.cache
+C:\Martin\Ch06Ex01\Ch06Ex01\obj\Debug\netcoreapp2.1\Ch06Ex01.AssemblyInfo.cs
+C:\Martin\Ch06Ex01\Ch06Ex01\obj\Debug\netcoreapp2.1\Ch06Ex01.dll
+C:\Martin\Ch06Ex01\Ch06Ex01\obj\Debug\netcoreapp2.1\Ch06Ex01.pdb
